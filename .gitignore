@@ -1,0 +1,12 @@
+# 忽略数据文件夹（保护商业隐私）
+data/
+# 忽略输出结果文件夹
+output_psds/
+# 忽略大型 PSD 模板（GitHub 建议单个文件小于 50MB）
+model/*.psd
+# 忽略字体文件夹（字体文件总共要40MB）
+fonts/
+# 忽略 Python 缓存和虚拟环境
+__pycache__/
+.venv/
+.vscode/
