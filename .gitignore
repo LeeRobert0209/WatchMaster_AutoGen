@@ -10,3 +10,6 @@ fonts/
 __pycache__/
 .venv/
 .vscode/
+
+# Config
+config.ini
